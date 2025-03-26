@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello 👋. I'm Kshitij (KJ).
+
+I am a web developer by profession. I enjoy tinkering with modern JavaScript, experimenting with open-source tools, and building self-hosted projects. I learn best by diving hands-on into projects, solving real problems. I share my learnings, discoveries and insights through my [blog](https://jain.tech).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jain-id).
 
 <!--
 **kshitijjain/kshitijjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
